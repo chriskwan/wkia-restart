@@ -1,2 +1,2 @@
-# wkia-restart
-🔄 WKIA Automatic Computer Restart Script
+# 🔄 WKIA Restart
+WKIA Automatic Computer Restart Script
